@@ -44,9 +44,9 @@ int level1Min[] = {0,25,60}; // <Sensor1,Sensor2,Sensor3, so on...>
 int level2Max[] = {0,100,100}; // <Sensor1,Sensor2,Sensor3, so on...>
 int level2Min[] = {0,30,70}; // <Sensor1,Sensor2,Sensor3, so on...>
 
-char blynkAuth[] = "udlcqV_hyfHNgpbgFTZS3-yvt-FAm3mB";
-char ssid[] = "DeltaServer";
-char pass[] = "726630094E";
+char blynkAuth[] = "<blynkauth>";
+char ssid[] = "<ssid>";
+char pass[] = "<pass>";
 
 
 void setup() {
